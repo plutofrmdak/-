@@ -12,8 +12,7 @@ print("♣: @plutofrmdak")
 try:
     iO = input("Proxies? [y/n]: ")
     if iO == "y" or iO == "Y":
-        _O = __0O0O0O0OOO0OOOOO.readlines()
-        for xY0 in _O:
+        for xY0 in __0O0O0O0OOO0OOOOO.readlines():
             prox.add(xY0.strip())
     else: prox = "127.0.0.1"
     zX = int(input('Amount: '));print()
